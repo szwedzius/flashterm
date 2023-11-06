@@ -1,0 +1,27 @@
+Przetłumacz:
+dodać,plus
+odjąć,moins
+pomnożyć,fois
+podzielić,divise par
+równa się,egale
+zero,zero
+jeden,un
+dwa,deux
+trzy,trois
+cztery,quatre
+pięć,cinq
+sześć,six
+siedem,sept
+osiem,huit
+dziewięć,neuf
+dziesięć,dis
+jedenaście,onze
+dwanaście,douze
+trzynaście,treize
+czternaście,quatorze
+piętnaście,quinze
+szesnaście,seize
+siedemnaście,dix-sept
+osiemnaście,dix-huit
+dziewiętnaście,dix-neuf
+dwadzieścia,vingt
